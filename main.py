@@ -54,4 +54,4 @@ elif escolha == '4':
 else:
     print('\nOperação incorreta.')
 
-# Fim da Calculadora #
+# Fim da Calculadora  #
