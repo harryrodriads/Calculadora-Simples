@@ -53,3 +53,5 @@ elif escolha == '4':
     print('\n')
 else:
     print('\nOperação incorreta.')
+
+# Fim da Calculadora #
